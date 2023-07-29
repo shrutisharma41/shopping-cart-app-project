@@ -1,4 +1,4 @@
-# flutter_pro
+# Shopping Cart app
 
 A new Flutter project.
 
